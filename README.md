@@ -1,7 +1,7 @@
 # Hi there, I'm Andrea 👋
 
 I'm a young and curious developer. I had a 10 weeks training in a coding bootcamp (Le Reacteur).
-I lover to create and I'm always seeking a new challenge.
+I loveto create and I'm always seeking a new challenge.
 Please, browse my repositories ✨
 
   
@@ -16,9 +16,15 @@ Please, browse my repositories ✨
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
    
+   
+##   👩🏻‍💻 My Projects : 
+
+I've made some websites replicas like 
+Netflix, Vinted, Happy-Cow (a Veggie restaurants browser)
+
 ## 🤭 I also use Social Medias !
 
- <a href="https://www.linkedin.com/in/andr%C3%A9a-masselot-35bbb1252"/>
+ <a href="https://www.linkedin.com/in/andréa-masselot-35bbb1252"/>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 
