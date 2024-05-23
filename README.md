@@ -1,7 +1,7 @@
 # Hi there, I'm Andrea 👋
 
-I'm a young and curious developer. I had a 10 weeks training in a coding bootcamp (Le Reacteur).
-Now I'm currently upgrading my skills in my 6 months internship by working on a private project.
+I'm a junior javascript developer. I'm currently working for Sewan compagny.
+Currently upgrading my skills and looking forward to work with new technologies.
 I love to create and I'm always seeking a new challenge.
 Please, browse my repositories ✨
 
